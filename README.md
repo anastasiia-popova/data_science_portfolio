@@ -9,11 +9,11 @@ This collection showcases an array of data-driven projects that I've developed. 
 
 * Project 1
   
-Status is ![##1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  _Started_
+Status: ![##1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  _Started_
 
 * Project 2
   
-Status is ![##1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  _Started_
+Status: ![##1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  _Started_
 
 ---
 If you found these projects interesting and would like to discuss the portfolio further, explore potential work opportunities, or explore collaboration possibilities, please don't hesitate to reach out to me.
