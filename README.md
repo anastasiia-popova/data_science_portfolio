@@ -21,7 +21,7 @@ __Status__: ![##1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)  _s
 
 __Tools__: `alevin-fry`, `salmon`, `scanpy`, `matplotlib`
 
-__Methods__: Raw Data Processing, EDA, Dimentionality Reduction 
+__Methods__: Raw Data Processing, EDA, Data Cleaning, Dimentionality Reduction 
 
 ---
 If you found these projects interesting and would like to discuss the portfolio further, explore potential work opportunities, or explore collaboration possibilities, please don't hesitate to reach out to me.
