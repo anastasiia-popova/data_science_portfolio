@@ -9,7 +9,7 @@ This collection showcases an array of data-driven projects that I've developed. 
 
 ### Heart Attack Prediction Project
   
-__Status__: ![orange-color](https://via.placeholder.com/15/f07815/000000?text=+)  _in progress_
+__Status__: ![green-color](https://via.placeholder.com/15/c5f01/000000?text=+)  _done_
 
 __Tools__: `pandas`, `sklearn`, `seaborn`, `matplotlib`
 
