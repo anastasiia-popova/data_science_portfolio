@@ -3,7 +3,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-This collection showcases an array of data-driven projects that I've developed. It is presented in the format of Jupyter Notebooks and PDF presentations.
+This collection showcases my recent data-driven projects. It is presented in the format of Jupyter Notebooks and PDF presentations.
 
 ## Content
 
