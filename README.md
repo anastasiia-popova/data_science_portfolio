@@ -17,7 +17,7 @@ __Methods__: EDA, Classification (logistic regression, SVM, XGB)
 
 ### Analysis of scRNA sequencing data of human brain cells
   
-__Status__: ![green-color](https://via.placeholder.com/15/f07815/000000?text=+)  _done_
+__Status__:  ![green-color](https://via.placeholder.com/15/a9c746/000000?text=+)  _done_
 
 __Tools__: `alevin-fry`, `salmon`, `scanpy`, `matplotlib`
 
