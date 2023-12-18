@@ -24,7 +24,7 @@ __Tools__: `alevin-fry`, `salmon`, `scanpy`, `matplotlib`
 __Methods__: Raw Data Processing, EDA, Data Cleaning, Dimentionality Reduction 
 
 ---
-If you found these projects interesting and would like to discuss the portfolio further, explore potential work opportunities, or explore collaboration possibilities, please don't hesitate to reach out to me.
+If you found these projects interesting and would like to discuss the portfolio further, explore potential work opportunities or collaboration possibilities, please don't hesitate to reach out to me.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
