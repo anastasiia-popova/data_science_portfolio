@@ -9,7 +9,7 @@ This collection showcases my recent data-driven projects. It is presented in the
 
 ### Heart Attack Prediction Project
   
-__Status__: ![green-color](https://via.placeholder.com/15/a9c746/000000?text=+)  _done_
+__Status__:  _done_
 
 __Tools__: `pandas`, `sklearn`, `seaborn`, `matplotlib`
 
@@ -17,7 +17,7 @@ __Methods__: EDA, Classification (logistic regression, SVM, XGB)
 
 ### Analysis of scRNA sequencing data of human brain cells
   
-__Status__:  ![green-color](https://via.placeholder.com/15/a9c746/000000?text=+)  _done_
+__Status__:  _done_
 
 __Tools__: `alevin-fry`, `salmon`, `scanpy`, `matplotlib`
 
