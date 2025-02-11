@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/nastya-popova/)
 
 This collection showcases my recent data-driven projects. It is presented in the format of Jupyter Notebooks and PDF presentations.
 
