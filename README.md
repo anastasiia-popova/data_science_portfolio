@@ -15,16 +15,25 @@ __Tools__: `pandas`, `sklearn`, `seaborn`, `matplotlib`
 
 __Methods__: EDA, Classification (logistic regression, SVM, XGB)  
 
-### Analysis of scRNA sequencing data of human brain cells
+### Analysis of CITE-seq data from a brain organoid
   
 __Status__:  _done_
 
 __Tools__: `alevin-fry`, `salmon`, `scanpy`, `matplotlib`
 
-__Methods__: Raw Data Processing, EDA, Data Cleaning, Dimentionality Reduction 
+__Methods__: Raw Data Processing, EDA, Data Cleaning, Dimensionality Reduction 
+
+### In Silico Prediction of Tartrazine Toxicity
+
+__Status__:  _done_
+
+__Tools__: VirtualToxLab, PanScreen, Molinspiration, ProTox-3.0, SwissADME
+
+__Methods__: computer modeling of small molecule toxicity 
+
 
 ---
-If you found these projects interesting and would like to discuss the portfolio further, explore potential work opportunities or collaboration possibilities, please don't hesitate to reach out to me.
+If you found these projects interesting and would like to discuss the portfolio further or explore potential work opportunities or collaboration possibilities, please don't hesitate to reach out to me.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
