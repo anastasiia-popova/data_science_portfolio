@@ -1,7 +1,8 @@
 # Data Science Portfolio
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/nastya-popova/)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 This collection showcases my recent data-driven projects. It is presented in the format of Jupyter Notebooks and PDF presentations.
 
@@ -40,7 +41,7 @@ If you found these projects interesting and would like to discuss the portfolio 
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 [license-url]: https://opensource.org/license/mit/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ppvanastya/
+[linkedin-url]: https://www.linkedin.com/in/nastya-popova/
 [red-color]: #f03c15
 [orange-color]:#f07815
 [green-color]: #a9c746
